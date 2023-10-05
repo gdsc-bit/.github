@@ -1,6 +1,6 @@
 <h1>WELCOME TO  GDSC-BIT OFFICAL GITHUB PAGE</h1>
 
-<img src="(https://questdb.io/img/blog/2023-10-03/hacktoberfest-2023.webp)"/>
+<img src="https://questdb.io/img/blog/2023-10-03/hacktoberfest-2023.webp"/>
   
 
    
