@@ -1,6 +1,6 @@
 <h1>WELCOME TO  GDSC-BIT OFFICAL GITHUB PAGE</h1>
 
-<img src="https://github.com/gdsc-bit/.github/blob/main/profile/Hfest-Logo-2-Color-Manga%402x.png"/>
+<img src="(https://questdb.io/img/blog/2023-10-03/hacktoberfest-2023.webp)"/>
   
 
    
