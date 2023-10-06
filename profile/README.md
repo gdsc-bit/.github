@@ -2,7 +2,9 @@
 
 ![Hacktoberfest 2023](https://questdb.io/img/blog/2023-10-03/hacktoberfest-2023.webp)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gdsc-bit.gdsc-bit&left_text=MyPageVisitors)](https://github.com/gdsc-bit/gdsc-bit)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gdsc-bit&&style=flat-square" align="center" />
+</div>  
 
 ---
 
