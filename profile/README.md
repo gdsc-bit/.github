@@ -1,6 +1,8 @@
 # Welcome to GDSC-BIT Bangalore Official GitHub Page
 
+<div align="center">
 ![Hacktoberfest 2023](https://res.cloudinary.com/practicaldev/image/fetch/s--pZcW8RPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ixtv9dsr5qohhnz0gkup.gif)
+</div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gdsc-bit&&style=flat-square" align="center" />
 </div>  
