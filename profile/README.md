@@ -28,7 +28,7 @@ We welcome contributions from developers of all skill levels. Whether you're a b
 
 ### How to Contribute
 
-1. Check out our [contributing guidelines]([CONTRIBUTING.md](https://github.com/gdsc-bit/newbie-practice#readme)) to get started.
+1. Check out our [contributing guidelines](https://github.com/gdsc-bit/newbie-practice#readme) to get started.
 2. Browse our [open issues](https://github.com/gdsc-bit/gdsc-bit/issues) to find a project or task that interests you.
 3. Fork the repository, make your changes, and submit a pull request.
 4. Join our [Discord community](https://discord.gg/hv79UqwxcA) to connect with other contributors.
